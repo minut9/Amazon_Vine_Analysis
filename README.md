@@ -17,7 +17,7 @@ In this project, I had access to approximately 50 datasets. Each one contains re
 <img width="685" alt="Screen Shot 2022-02-23 at 8 16 23 PM" src="https://user-images.githubusercontent.com/86068655/155439058-f63da29b-7d15-46de-895b-2b370c36dbb5.png">
 
 
-### <ins>5 star reviews: total, paid and unpaid memberships
+### <ins>5 star reviews: Total / paid / unpaid memberships
    The total number of 5 star reviews were 67568. 0 of those 67568 were paid and 38394 were unpaid 5 star reviews.
 
 <img width="729" alt="Screen Shot 2022-02-23 at 8 16 54 PM" src="https://user-images.githubusercontent.com/86068655/155439456-a10ac343-225d-4033-9829-8a9708dcf91d.png">
